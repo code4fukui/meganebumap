@@ -1,4 +1,7 @@
 # MEGANEBU MAP
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A map of the filming locations for the anime "Meganebu!" (Glasses Club!).
 
 ## Demo
