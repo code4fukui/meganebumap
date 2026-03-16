@@ -26,4 +26,4 @@ This project uses the Google Maps API, so a Google Maps API key is required to r
 The location data is loaded from the `meganebu_location_rdf.json` file, which contains RDF data about the filming locations.
 
 ## License
-This project is licensed under an unknown license.
+MIT License — see [LICENSE](LICENSE).
